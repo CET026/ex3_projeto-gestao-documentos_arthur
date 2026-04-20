@@ -1,9 +1,11 @@
 Requisitos:
 1_Simples
 2_Prático
-3_Econômico
+3_Econômico (prioridade alta)
 4_Compacto
-5_Ergonômico
+5_Ergonômico (prioridade alta)
 6_Acessível
-7_Bonito
+7_Bonito 
 8_Elegante
+9_Sustentável
+10_Reutilizável
