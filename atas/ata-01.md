@@ -10,5 +10,5 @@ Decisões:
     Horários de pausa serão intercalados
 
 Ações:
-    Organizar colaboradores em euipas (Jorge)
+    Organizar colaboradores em equipas (Jorge)
     Definir melhor horário para pausa da equipa (Rodrigo)
