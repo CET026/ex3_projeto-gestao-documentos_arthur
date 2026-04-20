@@ -1,0 +1,9 @@
+Requisitos:
+1_Simples
+2_Prático
+3_Econômico
+4_Compacto
+5_Ergonômico
+6_Acessível
+7_Bonito
+8_Elegante
