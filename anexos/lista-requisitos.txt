@@ -1,6 +1,6 @@
 Requisitos:
 1_Simples
-2_Prático
+2_Pratico
 3_Econômico (prioridade alta)
 4_Compacto
 5_Ergonômico (prioridade alta)
